@@ -10,10 +10,15 @@
   "email": "jean@plomberie-moreau.fr",
   "portable": "+33655544433",
   "has_website": false,
-  "description": "Plombier professionnel urgentiste à Bordeaux",
+  "description": null,
   "annee_creation": "2010",
   "siret": "45678912300045",
   "photos": [],
-  "rating": 4.5,
-  "review_count": 12
+  "rating": null,
+  "review_count": null,
+  "address": null,
+  "phone": null,
+  "hours": null,
+  "_enriched": true,
+  "_enrichedAt": "2026-02-21T16:08:41.943Z"
 }
