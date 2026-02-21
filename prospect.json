@@ -1,0 +1,19 @@
+{
+  "id": "test-003",
+  "nom": "Jean Moreau",
+  "raison_sociale": "Plomberie Moreau",
+  "activite": "plombier",
+  "metier": "plombier",
+  "adresse": "8 Rue des Artisans, 33000 Bordeaux",
+  "ville": "Bordeaux",
+  "telephone": "+33567890123",
+  "email": "jean@plomberie-moreau.fr",
+  "portable": "+33655544433",
+  "has_website": false,
+  "description": "Plombier professionnel urgentiste à Bordeaux",
+  "annee_creation": "2010",
+  "siret": "45678912300045",
+  "photos": [],
+  "rating": 4.5,
+  "review_count": 12
+}
